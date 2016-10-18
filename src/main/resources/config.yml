@@ -1,0 +1,6 @@
+hide_enchants: true #hides the enchantment tooltip
+fill_lapis: true #fills second slot with lapis (can't be taken by players)
+randomize_enchants: true #randomizes the enchantments every time the item is clicked
+xpmod: 0.2
+loot_mult: 1.5
+emerald_crafting: true
